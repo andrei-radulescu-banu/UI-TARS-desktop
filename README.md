@@ -63,6 +63,16 @@ UI-TARS Desktop is a GUI Agent application based on [UI-TARS (Vision-Language Mo
 
 See [Quick Start](./docs/quick-start.md).
 
+## Andrei's Quick Start
+* Clone the repo
+* Run these commands
+
+```bash
+npm install -g pnpm
+pnpm install
+pnpm dev:agent-tars
+```
+
 ## Deployment
 
 See [Deployment](https://github.com/bytedance/UI-TARS/blob/main/README_deploy.md).
